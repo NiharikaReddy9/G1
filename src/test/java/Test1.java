@@ -1,5 +1,5 @@
 public class Test1 {
     public static void main (String args[]){
-        System.out.println("Hello Test1 java updated from dev ##");
+        System.out.println("Hello master");
     }
 }
